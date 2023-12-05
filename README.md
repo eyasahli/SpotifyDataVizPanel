@@ -56,7 +56,7 @@ Spotiviz is brought to you by our enthusiastic duo:
 For inquiries or support, feel free to reach out to us:
 
 - Eya Sahli: [eya.sahli@dauphine.eu](mailto:eya.sahli@dauphine.eu)
-- Ines Ouhichi: [nour-el-houda.ben-ali@dauphine.eu](mailto:nour-el-houda.ben-ali@dauphine.eu)
+- Nour ElHouda Ben Ali : [nour-el-houda.ben-ali@dauphine.eu](mailto:nour-el-houda.ben-ali@dauphine.eu)
 
 ## Additional Information
 
