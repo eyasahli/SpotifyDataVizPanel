@@ -1,8 +1,5 @@
 
-# Spotify Data Visualization Project with Panel
-
-
-# Spotiviz - Spotify Tracks Data Application
+# Spotify Data Visualization Project with Panel : VIZIFY
 
 ## Overview
 
