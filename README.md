@@ -9,10 +9,10 @@ This project aims at analyzing Spotify's data and predicting the genre of the mu
 
 To run VIZIFY, follow these steps:
 
-1. Create and activate a virtual environment:
+1. Open the project in an IDE then Create and activate a conda virtual environment:
    ```bash
-   python -m venv venv
-   venv/Scripts/activate
+   conda create -n venv python=3.6 -y 
+   conda activate venv
    ```
 
 2. Install the required packages using the following command:
@@ -29,7 +29,7 @@ To run VIZIFY, follow these steps:
 
 ## Dashboards
 
-Spotiviz offers the following dashboards:
+Vizify offers the following dashboards:
 
 1. **Home Page**: Navigate to the home page to get an overview of the application.
 
@@ -45,7 +45,7 @@ Spotiviz offers the following dashboards:
 
 ## Meet the Team
 
-Spotiviz is brought to you by our enthusiastic duo:
+Vizify is brought to you by our enthusiastic duo:
 
 - [**Eya Sahli**](https://www.linkedin.com/in/eya-sahli-5ab205174/)
 
